@@ -1,0 +1,8 @@
+# PointCloud Downsampler - Dependencies
+open3d>=0.17.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+pyinstaller>=6.0.0
+appdirs>=1.4.4
+plotly>=6.0.0
